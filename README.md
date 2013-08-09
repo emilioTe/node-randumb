@@ -1,5 +1,5 @@
 ### node-randumb
-generate a random ASCII character string
+generate a random alphanumeric ASCII character string
 
 
 
