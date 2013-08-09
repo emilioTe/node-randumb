@@ -1,5 +1,5 @@
 {
-  "name": "node-randumb",
+  "name": "randumb",
   "version": "0.0.1",
   "description": "Generate a random ASCII character string",
   "main": "index.js",
