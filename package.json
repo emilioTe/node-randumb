@@ -1,0 +1,20 @@
+{
+  "name": "node-randumb",
+  "version": "0.0.1",
+  "description": "Generate a random ASCII character string",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emilioTe/node-randumb.git"
+  },
+  "keywords": [
+    "random",
+    "string",
+    "ascii"
+  ],
+  "author": "Emilio Testa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emilioTe/node-randumb/issues"
+  }
+}
