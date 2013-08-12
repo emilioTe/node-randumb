@@ -15,8 +15,13 @@ generate a random alphanumeric ASCII character string
 var randumb = require('randumb');
 
 console.log(randumb());
+// LrdLhi8B70
+
 console.log(randumb(5));
+// 50f4q
+
 console.log(randumb(10, false));
+// R1jc8PKc3l
 ```
 
 
