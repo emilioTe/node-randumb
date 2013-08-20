@@ -1,6 +1,6 @@
 {
   "name": "randumb",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Generate a random alphanumeric ASCII character string",
   "main": "index.js",
   "repository": {
