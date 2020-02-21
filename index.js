@@ -2,7 +2,7 @@
  * node-randumb
  * 
  * npm:     randumb
- * github:  https://github.com/emilioTe/node-randumb
+ * github:  https://github.com/thatemilio/node-randumb
  * 
  */
 

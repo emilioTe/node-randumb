@@ -1,11 +1,11 @@
 {
   "name": "randumb",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Generate a random alphanumeric ASCII character string",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/emilioTe/node-randumb.git"
+    "url": "https://github.com/thatemilio/node-randumb.git"
   },
   "keywords": [
     "random",
@@ -15,6 +15,6 @@
   "author": "Emilio Testa",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/emilioTe/node-randumb/issues"
+    "url": "https://github.com/thatemilio/node-randumb/issues"
   }
 }
